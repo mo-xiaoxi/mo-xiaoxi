@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀 I'm a CTF player of Tea-Deliverers, Blue-Lotus. 
 - 🔭 I’m a fifth-year Ph.D. student at Tsinghua University, doing research on protocol security.
-- 😄 Blog: [moxiaoxi.info](https://moxiaoxi.info/), [Academic](https://shenkaiwen.com/)
+- 🧑🏻‍💻 Blog: [moxiaoxi.info](https://moxiaoxi.info/), [academic](https://shenkaiwen.com/)
 
 
 
