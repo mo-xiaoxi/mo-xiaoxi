@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 
-![moxiaoxi's github stats](https://github-readme-stats.vercel.app/api?username=mo-xiaoxi&show_icons=true&theme=radical&count_private=true) 
+<!-- ![moxiaoxi's github stats](https://github-readme-stats.vercel.app/api?username=mo-xiaoxi&show_icons=true&theme=radical&count_private=true)  -->
